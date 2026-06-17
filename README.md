@@ -33,3 +33,4 @@
 | **Bootstrap** | 5.3.0 | CSS-фреймворк для интерфейса |
 | **Font Awesome** | 6.4.0 | Иконки |
 
+![](https://github.com/BlohinaValeria/Programming_dop/blob/main/скрин.png)
